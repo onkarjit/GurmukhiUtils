@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GurmukhiUtils", "src\GurmukhiUtils\GurmukhiUtils.csproj", "{869A8061-F942-4678-B07D-FD36DF098BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GurmukhiUtils.Tests", "tests\GurmukhiUtils.Tests\GurmukhiUtils.Tests.csproj", "{070EEAF2-EEF7-4F34-9766-FC0AE6020BD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{869A8061-F942-4678-B07D-FD36DF098BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869A8061-F942-4678-B07D-FD36DF098BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869A8061-F942-4678-B07D-FD36DF098BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869A8061-F942-4678-B07D-FD36DF098BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{070EEAF2-EEF7-4F34-9766-FC0AE6020BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070EEAF2-EEF7-4F34-9766-FC0AE6020BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070EEAF2-EEF7-4F34-9766-FC0AE6020BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070EEAF2-EEF7-4F34-9766-FC0AE6020BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
